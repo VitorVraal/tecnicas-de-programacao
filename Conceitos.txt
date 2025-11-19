@@ -1,4 +1,3 @@
-# Arquivo para a aula de Técnicas de Programação do Curso de Desenvolvimento de Software Multiplataforma da Fatec Itaquera - 19-11-2025
-
-# Cada aluno deverá inserir uma função python que leve seu nome e que, ao ser invocada, mostre o seu RA.
-
+def vitor_luiz_soares_da_silva ():
+    return "22571392422021"
+print(vitor_luiz_soares_da_silva()) 
